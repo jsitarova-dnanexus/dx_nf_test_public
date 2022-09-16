@@ -10,7 +10,7 @@ process sayHello {
     stdout
   script:
     """
-    echo '$x world!'
+    echo '$x world test branch!'
     """
 }
 
