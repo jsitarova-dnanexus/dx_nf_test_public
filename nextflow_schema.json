@@ -6,8 +6,7 @@
             "title": "Input/output options",
             "properties": {
                 "word": {
-                    "type": "string", 
-                    "default": "default_schema_cauky"
+                    "type": "string"
                 }
             }
         }
